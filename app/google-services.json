@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "659984809109",
+    "project_id": "appbandoan-e8513",
+    "storage_bucket": "appbandoan-e8513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659984809109:android:00a47c110e13115e472f9c",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659984809109-fl8t9241h7i1s2kdc9eqcgpmt12dfevi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "32fa7865d6749a74ae0b913d838f1e8afb0af4dd"
+          }
+        },
+        {
+          "client_id": "659984809109-2fpdmhjcfinh4p6jkqo1l2geipqtu0fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6IGa3NwFZUSVBsusy-vzLykIEf6Cr0lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659984809109-2fpdmhjcfinh4p6jkqo1l2geipqtu0fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

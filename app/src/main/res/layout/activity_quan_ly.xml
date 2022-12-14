@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".QuanLyActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:text="QUẢN LÍ"
+            android:gravity="center"
+            android:textSize="30dp"
+            android:textColor="@color/white"
+            android:background="@android:color/holo_orange_dark"
+            />
+
+        <LinearLayout
+            android:id="@+id/quanly"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            >
+            <com.google.android.material.tabs.TabLayout
+                android:id="@+id/tab_layout"
+                app:tabSelectedTextColor="#E64A8E"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+            <androidx.viewpager.widget.ViewPager
+                android:id="@+id/view_pager"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:layout_gravity="bottom"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp"
+        android:weightSum="4"
+        android:background="@color/white"
+        >
+
+        <ImageView
+            android:id="@+id/imagebutton_home_quanli"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/icons8_home_48"
+            android:layout_marginRight="40dp"/>
+
+
+        <ImageView
+            android:id="@+id/imagebutton_store_quanli"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/icons8_store"
+            android:layout_weight="1"
+            android:layout_marginRight="40dp"
+            android:background="@android:color/holo_orange_dark"/>
+
+        <ImageView
+            android:id="@+id/imagebutton_chat_quanli"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/icons8_chat_room"
+            android:layout_weight="1"
+            android:layout_marginRight="40dp"/>
+
+        <ImageView
+            android:id="@+id/imagebutton_user_quanli"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/icons8_user"/>
+
+    </LinearLayout>
+
+</FrameLayout>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="cam">@android:color/holo_orange_dark</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="fab_margin">16dp</dimen>
+    <string name="app_name">My Application</string>
+    <string name="close_nav">Close Drawer</string>
+    <string name="default_web_client_id" translatable="false">659984809109-2fpdmhjcfinh4p6jkqo1l2geipqtu0fp.apps.googleusercontent.com</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="gcm_defaultSenderId" translatable="false">659984809109</string>
+    <string name="google_api_key" translatable="false">AIzaSyA6IGa3NwFZUSVBsusy-vzLykIEf6Cr0lo</string>
+    <string name="google_app_id" translatable="false">1:659984809109:android:00a47c110e13115e472f9c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA6IGa3NwFZUSVBsusy-vzLykIEf6Cr0lo</string>
+    <string name="google_storage_bucket" translatable="false">appbandoan-e8513.appspot.com</string>
+    <string name="goole_map_key" translatable="false">AIzaSyAIl7ILsL6YyI6wjfe1erp7KaALZuMBWIw</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="next">Next</string>
+    <string name="open_nav">Open Drawer</string>
+    <string name="previous">Previous</string>
+    <string name="project_id" translatable="false">appbandoan-e8513</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_tai_khoan">TaiKhoan</string>
+    <style name="Theme.MyApplication" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+    <style name="Theme.MyApplication.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.MyApplication.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.MyApplication.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+</resources>

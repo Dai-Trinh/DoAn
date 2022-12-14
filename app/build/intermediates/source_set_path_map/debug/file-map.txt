@@ -1,0 +1,47 @@
+com.example.myapplication.app-core-1.8.0-0 C:\Users\This PC\.gradle\caches\transforms-3\005290b55d6ec405b199a1f56941a73d\transformed\core-1.8.0\res
+com.example.myapplication.app-startup-runtime-1.1.1-1 C:\Users\This PC\.gradle\caches\transforms-3\00c3c9a94175eca080677eef2685c84b\transformed\startup-runtime-1.1.1\res
+com.example.myapplication.app-play-services-maps-18.1.0-2 C:\Users\This PC\.gradle\caches\transforms-3\00eb588b37dea65622c180b5c0546ea1\transformed\play-services-maps-18.1.0\res
+com.example.myapplication.app-navigation-runtime-2.3.5-3 C:\Users\This PC\.gradle\caches\transforms-3\0a78020c36b8935ec1e86df4cf3150e0\transformed\navigation-runtime-2.3.5\res
+com.example.myapplication.app-fragment-1.3.6-4 C:\Users\This PC\.gradle\caches\transforms-3\0af2e64521ed68e3ba0b00199f17d8ae\transformed\fragment-1.3.6\res
+com.example.myapplication.app-navigation-common-2.3.5-5 C:\Users\This PC\.gradle\caches\transforms-3\25fe3c48df2a01379e211afadd20fbfe\transformed\navigation-common-2.3.5\res
+com.example.myapplication.app-emoji2-views-helper-1.2.0-6 C:\Users\This PC\.gradle\caches\transforms-3\2fd1c0abf642d87ecdb762fd2a4bb931\transformed\emoji2-views-helper-1.2.0\res
+com.example.myapplication.app-ui-util-1.0.0-rc01-7 C:\Users\This PC\.gradle\caches\transforms-3\3ad918010cfbcc19363040907e86ba06\transformed\ui-util-1.0.0-rc01\res
+com.example.myapplication.app-cardview-1.0.0-8 C:\Users\This PC\.gradle\caches\transforms-3\3b7f335fc6fff54f6d36ad59b06a65aa\transformed\cardview-1.0.0\res
+com.example.myapplication.app-recyclerview-1.1.0-9 C:\Users\This PC\.gradle\caches\transforms-3\403ddcfaed4575e445d81db16145c606\transformed\recyclerview-1.1.0\res
+com.example.myapplication.app-firebase-common-20.1.2-10 C:\Users\This PC\.gradle\caches\transforms-3\4479d8b378de42630179ac0984549eda\transformed\firebase-common-20.1.2\res
+com.example.myapplication.app-appcompat-resources-1.5.1-11 C:\Users\This PC\.gradle\caches\transforms-3\4b5886ddd70c5a2405391c200bbcdeb7\transformed\appcompat-resources-1.5.1\res
+com.example.myapplication.app-lifecycle-livedata-core-2.5.1-12 C:\Users\This PC\.gradle\caches\transforms-3\56cc7313af4f4191f110a43717df256b\transformed\lifecycle-livedata-core-2.5.1\res
+com.example.myapplication.app-transition-1.3.0-13 C:\Users\This PC\.gradle\caches\transforms-3\656ca8d5ff17311c8b8d7efd4124a26c\transformed\transition-1.3.0\res
+com.example.myapplication.app-viewpager2-1.0.0-14 C:\Users\This PC\.gradle\caches\transforms-3\6bd0833582362ffb25c770156e307c99\transformed\viewpager2-1.0.0\res
+com.example.myapplication.app-activity-1.5.1-15 C:\Users\This PC\.gradle\caches\transforms-3\6becf659af98de95c91162e9d62762b3\transformed\activity-1.5.1\res
+com.example.myapplication.app-lifecycle-viewmodel-savedstate-2.5.1-16 C:\Users\This PC\.gradle\caches\transforms-3\6d53fefeac12b305b96c09df25fc35d9\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.example.myapplication.app-navigation-fragment-2.3.5-17 C:\Users\This PC\.gradle\caches\transforms-3\6de036cccbde2be1e6d279f14cd02de0\transformed\navigation-fragment-2.3.5\res
+com.example.myapplication.app-navigation-ui-2.3.5-18 C:\Users\This PC\.gradle\caches\transforms-3\735caa7f26c36c5684eb31d24a336b94\transformed\navigation-ui-2.3.5\res
+com.example.myapplication.app-lifecycle-viewmodel-2.5.1-19 C:\Users\This PC\.gradle\caches\transforms-3\7be677a289bb345a21e7363c50583700\transformed\lifecycle-viewmodel-2.5.1\res
+com.example.myapplication.app-annotation-experimental-1.1.0-20 C:\Users\This PC\.gradle\caches\transforms-3\81dac15ef07fbd8fa1d7c785736cd8d4\transformed\annotation-experimental-1.1.0\res
+com.example.myapplication.app-material-1.6.1-21 C:\Users\This PC\.gradle\caches\transforms-3\8d5da70a1d09e47b7d53a5ad6767c882\transformed\material-1.6.1\res
+com.example.myapplication.app-drawerlayout-1.1.1-22 C:\Users\This PC\.gradle\caches\transforms-3\90264d50030c3717bfc3a18d58c262fb\transformed\drawerlayout-1.1.1\res
+com.example.myapplication.app-play-services-base-18.0.1-23 C:\Users\This PC\.gradle\caches\transforms-3\9e48fb0ab9c4abc82d044ecf4b271dac\transformed\play-services-base-18.0.1\res
+com.example.myapplication.app-ui-unit-1.0.0-rc01-24 C:\Users\This PC\.gradle\caches\transforms-3\a5691be444a95afdc834976510cf50b0\transformed\ui-unit-1.0.0-rc01\res
+com.example.myapplication.app-core-ktx-1.8.0-25 C:\Users\This PC\.gradle\caches\transforms-3\b0e5ba421d6c582452f8fb149f96e63d\transformed\core-ktx-1.8.0\res
+com.example.myapplication.app-ui-graphics-1.0.0-rc01-26 C:\Users\This PC\.gradle\caches\transforms-3\b2634e263a8095fe32e2e78bf42e3acf\transformed\ui-graphics-1.0.0-rc01\res
+com.example.myapplication.app-appcompat-1.5.1-27 C:\Users\This PC\.gradle\caches\transforms-3\b862e933f1dfd070e31002f8c2415bf4\transformed\appcompat-1.5.1\res
+com.example.myapplication.app-lifecycle-runtime-2.5.1-28 C:\Users\This PC\.gradle\caches\transforms-3\c2f37c8b96ed1fb79d33bf042f8eecc0\transformed\lifecycle-runtime-2.5.1\res
+com.example.myapplication.app-play-services-basement-18.1.0-29 C:\Users\This PC\.gradle\caches\transforms-3\c382fed7b55d20982f578884370ffb1a\transformed\play-services-basement-18.1.0\res
+com.example.myapplication.app-emoji2-1.2.0-30 C:\Users\This PC\.gradle\caches\transforms-3\d1210983c0fdb9acbdd2d3390a47f978\transformed\emoji2-1.2.0\res
+com.example.myapplication.app-savedstate-1.2.0-31 C:\Users\This PC\.gradle\caches\transforms-3\dc9bbab7bc7d7aceeeb608460258ccba\transformed\savedstate-1.2.0\res
+com.example.myapplication.app-coordinatorlayout-1.1.0-32 C:\Users\This PC\.gradle\caches\transforms-3\e06ea01c6131fb70a3d384a28a21d6cb\transformed\coordinatorlayout-1.1.0\res
+com.example.myapplication.app-constraintlayout-2.1.4-33 C:\Users\This PC\.gradle\caches\transforms-3\e1d4b4c9d970612447171260f421acc2\transformed\constraintlayout-2.1.4\res
+com.example.myapplication.app-lifecycle-process-2.4.1-34 C:\Users\This PC\.gradle\caches\transforms-3\e473668a3091174ed1d50d96a059b228\transformed\lifecycle-process-2.4.1\res
+com.example.myapplication.app-runtime-1.0.0-rc01-35 C:\Users\This PC\.gradle\caches\transforms-3\f64e03c236ab53402fedd39f54b50beb\transformed\runtime-1.0.0-rc01\res
+com.example.myapplication.app-browser-1.4.0-36 C:\Users\This PC\.gradle\caches\transforms-3\f86fa716d87bc051a158b4871c5e5334\transformed\browser-1.4.0\res
+com.example.myapplication.app-ui-geometry-1.0.0-rc01-37 C:\Users\This PC\.gradle\caches\transforms-3\f92ab38c18d244c5b9924ae9e6cf8253\transformed\ui-geometry-1.0.0-rc01\res
+com.example.myapplication.app-google-services-38 E:\AppBanDoAn\app\build\generated\res\google-services\debug
+com.example.myapplication.app-pngs-39 E:\AppBanDoAn\app\build\generated\res\pngs\debug
+com.example.myapplication.app-resValues-40 E:\AppBanDoAn\app\build\generated\res\resValues\debug
+com.example.myapplication.app-rs-41 E:\AppBanDoAn\app\build\generated\res\rs\debug
+com.example.myapplication.app-packageDebugResources-42 E:\AppBanDoAn\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.myapplication.app-packageDebugResources-43 E:\AppBanDoAn\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.myapplication.app-merged_res-44 E:\AppBanDoAn\app\build\intermediates\merged_res\debug
+com.example.myapplication.app-debug-45 E:\AppBanDoAn\app\src\debug\res
+com.example.myapplication.app-main-46 E:\AppBanDoAn\app\src\main\res

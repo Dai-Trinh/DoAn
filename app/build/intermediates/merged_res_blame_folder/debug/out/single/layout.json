@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-43:\\layout\\activity_maps.xml",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-43:\\layout\\fragment_do_chay.xml",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\fragment_do_chay.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-43:\\layout\\fragment_tat_ca.xml",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\fragment_tat_ca.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-43:\\layout\\activity_main2.xml",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-43:\\layout\\activity_chi_tiet_do_an.xml",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\activity_chi_tiet_do_an.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-43:\\layout\\activity_chat.xml",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-43:\\layout\\header_danhmuc.xml",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\header_danhmuc.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-43:\\layout\\fragment_sua_thong_tin.xml",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\fragment_sua_thong_tin.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-43:\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-43:\\layout\\activity_quan_ly.xml",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\activity_quan_ly.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-43:/layout/activity_chi_tiet_do_an.xml",
+        "source": "com.example.myapplication.app-main-46:/layout/activity_chi_tiet_do_an.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-43:\\layout\\activity_thong_tin_tai_khoan.xml",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\activity_thong_tin_tai_khoan.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-43:\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-43:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-43:\\layout\\activity_dang_ky.xml",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\activity_dang_ky.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-43:\\layout\\activity_thong_bao.xml",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\activity_thong_bao.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-43:\\layout\\fragment_do_uong.xml",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\fragment_do_uong.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-43:\\layout\\fragment_yeu_thich.xml",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\fragment_yeu_thich.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-43:\\layout\\fragment_gio_hang.xml",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\fragment_gio_hang.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-43:\\layout\\layout_item_doan.xml",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\layout_item_doan.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-43:\\layout\\layout_header.xml",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\layout_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-43:\\layout\\fragment_banh_kem.xml",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\fragment_banh_kem.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-43:\\layout\\fragment_do_an.xml",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\fragment_do_an.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-43:\\layout\\activity_tim_kiem.xml",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\activity_tim_kiem.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-43:\\layout\\fragment_tim_kiem.xml",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\fragment_tim_kiem.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-43:\\layout\\activity_tai_khoan.xml",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\activity_tai_khoan.xml"
+    }
+]

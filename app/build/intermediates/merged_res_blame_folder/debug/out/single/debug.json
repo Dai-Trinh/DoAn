@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\drawable_bovien.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\drawable\\bovien.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\layout_layout_item_doan.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\layout_item_doan.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\drawable_mau_nen.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\drawable\\mau_nen.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\layout_activity_tim_kiem.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\activity_tim_kiem.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\layout_activity_chi_tiet_do_an.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\activity_chi_tiet_do_an.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\drawable_icon_search.png.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\drawable\\icon_search.png"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\layout_fragment_do_uong.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\fragment_do_uong.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\drawable_shopping_cart_24.png.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\drawable\\shopping_cart_24.png"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\layout_header_danhmuc.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\header_danhmuc.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\layout_activity_dang_ky.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\activity_dang_ky.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\drawable_mau_nen_trang.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\drawable\\mau_nen_trang.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\drawable_ic_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\drawable\\ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\layout_fragment_do_an.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\fragment_do_an.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\layout_activity_thong_tin_tai_khoan.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\activity_thong_tin_tai_khoan.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\menu_danhmuc.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\menu\\danhmuc.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\layout_fragment_banh_kem.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\fragment_banh_kem.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\drawable_shopping_cart_black.png.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\drawable\\shopping_cart_black.png"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\drawable_love_24_red.png.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\drawable\\love_24_red.png"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\drawable_icons8_user.png.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\drawable\\icons8_user.png"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\drawable_icon_notification.png.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\drawable\\icon_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\layout_activity_maps.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-pngs-39:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\drawable_bovien_doan.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\drawable\\bovien_doan.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\drawable_icons8_chat_room.png.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\drawable\\icons8_chat_room.png"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\drawable_icons8_back_50.png.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\drawable\\icons8_back_50.png"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\layout_activity_quan_ly.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\activity_quan_ly.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\drawable_bovien_image.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\drawable\\bovien_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\drawable_love_24.png.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\drawable\\love_24.png"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\layout_fragment_yeu_thich.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\fragment_yeu_thich.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\drawable_ic_grocery_store_24.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\drawable\\ic_grocery_store_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\drawable_icons8_store.png.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\drawable\\icons8_store.png"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\menu_menu_timkiem.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\menu\\menu_timkiem.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\drawable_icons8_home_48.png.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\drawable\\icons8_home_48.png"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\layout_fragment_tat_ca.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\fragment_tat_ca.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\layout_activity_thong_bao.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\activity_thong_bao.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-44:/layout_activity_chi_tiet_do_an.xml.flat",
+        "source": "com.example.myapplication.app-main-46:/layout/activity_chi_tiet_do_an.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\layout_fragment_sua_thong_tin.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\fragment_sua_thong_tin.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\drawable_ic_baseline_send_24.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\drawable\\ic_baseline_send_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\layout_layout_header.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\layout_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\drawable_ic_baseline_home_50.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\drawable\\ic_baseline_home_50.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\layout_fragment_do_chay.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\fragment_do_chay.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\layout_fragment_tim_kiem.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\fragment_tim_kiem.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\layout_activity_tai_khoan.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\activity_tai_khoan.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\layout_fragment_gio_hang.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\fragment_gio_hang.xml"
+    },
+    {
+        "merged": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-44:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\This PC\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-46:\\layout\\activity_main.xml"
+    }
+]

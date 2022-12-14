@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SuaThongTinFragment"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sửa thông tin cá nhân"
+        android:textSize="25dp"
+        android:padding="10dp"
+        android:gravity="center"
+        android:background="@android:color/holo_orange_dark"
+        android:textColor="@color/white"
+        android:layout_marginBottom="10dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:id="@+id/layout_thongtin">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Tên hiển thị: "
+                        android:textColor="@color/black"
+                        android:textSize="20dp"
+                        android:padding="10dp"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Email: "
+                        android:textColor="@color/black"
+                        android:textSize="20dp"
+                        android:padding="10dp"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Số điện thoại: "
+                        android:textColor="@color/black"
+                        android:textSize="20dp"
+                        android:padding="10dp"/>
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="250dp"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+
+
+                    <EditText
+                        android:id="@+id/edit_tenhienthi"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Tên hiển thị: "
+                        android:textColor="@color/black"
+                        android:textSize="20dp"
+                        android:padding="10dp"/>
+
+                    <EditText
+                        android:id="@+id/edit_emailsua"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Email: "
+                        android:textColor="@color/black"
+                        android:textSize="20dp"
+                        android:padding="10dp"/>
+
+                    <EditText
+                        android:id="@+id/edit_sodienthoaisua"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Số điện thoại: "
+                        android:textColor="@color/black"
+                        android:textSize="20dp"
+                        android:padding="10dp"/>
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginLeft="50dp">
+                <Button
+                    android:id="@+id/button_capnhatsua"
+                    android:layout_marginTop="20dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Cập nhật"
+                    />
+
+                <Button
+                    android:id="@+id/button_huysua"
+                    android:layout_marginTop="20dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Hủy"
+                    android:layout_marginLeft="100dp"
+                    />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+
+
+</LinearLayout>
